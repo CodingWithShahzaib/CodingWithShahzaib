@@ -1,20 +1,299 @@
-<h1 align="center">Hi 👋, I'm Shahzaib Rehman</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithshahzaib&label=Profile%20views&color=0e75b6&style=flat" alt="codingwithshahzaib" /> </p>
+<!-- Dynamic Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Shahzaib%20Rehman&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwithshahzaib" alt="codingwithshahzaib" /></a> </p>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Welcome+to+my+Digital+Realm;🚀+Building+Tomorrow's+Solutions;💡+Turning+Ideas+into+Reality;🌟+Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shahzaib rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzaib rehman" height="30" width="40" /></a>
+<!-- Dynamic Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codingwithshahzaib&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/codingwithshahzaib?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/codingwithshahzaib?label=Stars%20Earned&style=for-the-badge&color=0e75b6" alt="stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Dynamic Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codingwithshahzaib/codingwithshahzaib/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codingwithshahzaib/codingwithshahzaib/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codingwithshahzaib/codingwithshahzaib/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingwithshahzaib&show_icons=true&locale=en&layout=compact" alt="codingwithshahzaib" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwithshahzaib&show_icons=true&locale=en" alt="codingwithshahzaib" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithshahzaib&" alt="codingwithshahzaib" /></p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+## 🧬 About Me
+
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  languages: string[];
+  currentFocus: string;
+  funFact: string;
+  available: boolean;
+}
+
+const shahzaib: Developer = {
+  name: "Shahzaib Rehman",
+  role: "Full Stack Engineer",
+  location: "Pakistan 🇵🇰",
+  languages: ["JavaScript", "Python", "TypeScript", "Go"],
+  currentFocus: "Building scalable microservices & AI-powered solutions",
+  funFact: "I turn coffee into code and bugs into features ☕",
+  available: true
+};
+```
+
+<!-- Dynamic GitHub Metrics -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codingwithshahzaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=codingwithshahzaib&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<!-- Animated Skills Section -->
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🎨 Frontend Magic
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,html,css,sass,tailwind,bootstrap,js,ts,jquery" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### ⚡ Backend Power  
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi,go,rust,php,laravel,spring,dotnet" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🗄️ Database & Storage
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,cassandra,elasticsearch,firebase,supabase" />
+</div>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### ☁️ Cloud & DevOps
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,nginx,grafana" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 AI/ML & Data
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda,jupyter,r,matlab" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🔧 Tools & IDE
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,idea,vim,git,github,gitlab,figma,postman,insomnia,notion" />
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Dynamic Analytics & Insights
+
+<div align="center">
+  
+<!-- WakaTime Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codingwithshahzaib&theme=tokyonight&hide_border=true&layout=compact&custom_title=⏰%20Weekly%20Coding%20Stats" />
+
+<!-- Language Usage Pie Chart -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&custom_title=💻%20Language%20Distribution" />
+
+</div>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codingwithshahzaib&custom_title=📈%20Contribution%20Timeline&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%"/>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=codingwithshahzaib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+
+<!-- Metrics Display -->
+<img src="https://metrics.lecoq.io/codingwithshahzaib?template=classic&config.timezone=Asia%2FKarachi&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.animated=true" />
+
+</div>
+
+---
+
+## 🎵 Now Playing & Real-time Data
+
+<div align="center">
+
+<!-- Spotify Now Playing (if connected) -->
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER&unique=true" width="540" />
+
+<!-- Random Joke/Quote Generator -->
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="500"/>
+
+<!-- Current Time Widget -->
+<img src="https://img.shields.io/badge/dynamic/json?color=2F81F7&style=for-the-badge&label=LOCAL%20TIME&query=formatted&url=http://worldtimeapi.org/api/timezone/Asia/Karachi&logo=clock" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!-- Pinned Repositories -->
+<a href="https://github.com/codingwithshahzaib/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwithshahzaib&repo=project1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/codingwithshahzaib/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwithshahzaib&repo=project2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📈 Detailed GitHub Analytics
+
+<div align="center">
+
+<!-- Comprehensive GitHub Stats -->
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=codingwithshahzaib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+
+<!-- Advanced Metrics -->
+<details>
+<summary>📊 More GitHub Analytics</summary>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingwithshahzaib&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingwithshahzaib&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingwithshahzaib&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingwithshahzaib&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codingwithshahzaib&theme=tokyonight&utcOffset=5"/>
+
+</details>
+
+</div>
+
+---
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+<!-- 3D Social Icons -->
+<a href="https://linkedin.com/in/shahzaib-rehman" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C&labelColor=1e77b5" alt="LinkedIn"/>
+</a>
+<a href="mailto:your.email@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C&labelColor=D14836" alt="Gmail"/>
+</a>
+<a href="https://twitter.com/your-handle" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C&labelColor=00acee" alt="Twitter"/>
+</a>
+<a href="https://your-portfolio.com" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&color=071A2C&labelColor=FF5722" alt="Portfolio"/>
+</a>
+<a href="https://dev.to/your-handle" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C&labelColor=0A0A0A" alt="Dev.to"/>
+</a>
+
+<!-- Dynamic Contact Form -->
+<br><br>
+<img src="https://img.shields.io/badge/Open%20for-Collaborations-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Available%20for-Freelance-blue?style=for-the-badge&logo=upwork&logoColor=white" />
+
+</div>
+
+---
+
+## 💭 Daily Dose of Wisdom
+
+<div align="center">
+
+<!-- Random Quote with Animation -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
+
+<!-- Motivational Widget -->
+<img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&category=motivational" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Dynamic Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
+
+<!-- Visitor Counter with Custom Style -->
+<img src="https://visitcount.itsvg.in/api?id=codingwithshahzaib&label=Profile%20Views&color=6&icon=5&pretty=true" />
+
+### 🌟 "In the world of code, every bug is just an undocumented feature waiting to be discovered!" 
+
+<sub>💖 Built with passion by [Shahzaib Rehman](https://github.com/codingwithshahzaib) | Last Updated: [![Dynamic Date](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=&query=$.datetime&url=http://worldtimeapi.org/api/timezone/Asia/Karachi&logo=calendar&logoColor=white&labelColor=blue&style=flat-square&cacheSeconds=60)](http://worldtimeapi.org/api/timezone/Asia/Karachi)</sub>
+
+</div>
+
+<!-- Hidden Easter Egg -->
+<!--
+████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗    ███████╗ ██████╗ ██████╗ 
+╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝    ██╔════╝██╔═══██╗██╔══██╗
+   ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗    █████╗  ██║   ██║██████╔╝
+   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║    ██╔══╝  ██║   ██║██╔══██╗
+   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║    ██║     ╚██████╔╝██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝
+                                                                                   
+██╗   ██╗██╗███████╗██╗████████╗██╗███╗   ██╗ ██████╗     ███╗   ███╗██╗   ██╗    
+██║   ██║██║██╔════╝██║╚══██╔══╝██║████╗  ██║██╔════╝     ████╗ ████║╚██╗ ██╔╝    
+██║   ██║██║███████╗██║   ██║   ██║██╔██╗ ██║██║  ███╗    ██╔████╔██║ ╚████╔╝     
+╚██╗ ██╔╝██║╚════██║██║   ██║   ██║██║╚██╗██║██║   ██║    ██║╚██╔╝██║  ╚██╔╝      
+ ╚████╔╝ ██║███████║██║   ██║   ██║██║ ╚████║╚██████╔╝    ██║ ╚═╝ ██║   ██║       
+  ╚═══╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝     ╚═╝   ╚═╝       
+                                                                                   
+██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗██╗                          
+██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝██║                          
+██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  ██║                          
+██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  ╚═╝                          
+██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗██╗                          
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝╚═╝                          
+
+🎉 Congratulations! You found the hidden ASCII art easter egg! 🎉
+You're definitely a curious developer - that's the spirit! 🚀
+-->
