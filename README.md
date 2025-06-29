@@ -128,8 +128,8 @@ const shahzaib: Developer = {
 
 <div align="center">
   
-<!-- WakaTime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codingwithshahzaib&theme=tokyonight&hide_border=true&layout=compact&custom_title=⏰%20Weekly%20Coding%20Stats" />
+<!-- Coding Activity Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=⏰%20Most%20Used%20Languages&langs_count=6" />
 
 <!-- Language Usage Pie Chart -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&custom_title=💻%20Language%20Distribution" />
@@ -148,8 +148,8 @@ const shahzaib: Developer = {
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=codingwithshahzaib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
 
-<!-- Metrics Display -->
-<img src="https://metrics.lecoq.io/codingwithshahzaib?template=classic&config.timezone=Asia%2FKarachi&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.animated=true" />
+<!-- GitHub Metrics (Alternative to Metrics.lecoq.io) -->
+<img src="https://github-readme-stats.vercel.app/api?username=codingwithshahzaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🏆%20GitHub%20Performance" />
 
 </div>
 
@@ -176,13 +176,13 @@ const shahzaib: Developer = {
 
 <div align="center">
 
-<!-- Pinned Repositories -->
-<a href="https://github.com/codingwithshahzaib/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwithshahzaib&repo=project1&theme=tokyonight&hide_border=true" />
+<!-- GitHub Repositories with Dynamic Cards -->
+<a href="https://github.com/codingwithshahzaib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwithshahzaib&repo=codingwithshahzaib&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/codingwithshahzaib/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwithshahzaib&repo=project2&theme=tokyonight&hide_border=true" />
-</a>
+
+<!-- Create more cards when you have public repositories -->
+<p><em>🔨 More awesome projects coming soon! Currently working on some exciting stuff behind the scenes.</em></p>
 
 </div>
 
@@ -201,11 +201,14 @@ const shahzaib: Developer = {
 <summary>📊 More GitHub Analytics</summary>
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingwithshahzaib&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingwithshahzaib&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingwithshahzaib&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingwithshahzaib&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codingwithshahzaib&theme=tokyonight&utcOffset=5"/>
+<!-- Alternative GitHub Stats Cards -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=codingwithshahzaib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=📈%20Detailed%20Stats"/>
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=codingwithshahzaib&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Breakdown"/>
+</div>
 
 </details>
 
@@ -263,11 +266,11 @@ const shahzaib: Developer = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
 
 <!-- Visitor Counter with Custom Style -->
-<img src="https://visitcount.itsvg.in/api?id=codingwithshahzaib&label=Profile%20Views&color=6&icon=5&pretty=true" />
+<img src="https://komarev.com/ghpvc/?username=codingwithshahzaib&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 ### 🌟 "In the world of code, every bug is just an undocumented feature waiting to be discovered!" 
 
-<sub>💖 Built with passion by [Shahzaib Rehman](https://github.com/codingwithshahzaib) | Last Updated: [![Dynamic Date](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=&query=$.datetime&url=http://worldtimeapi.org/api/timezone/Asia/Karachi&logo=calendar&logoColor=white&labelColor=blue&style=flat-square&cacheSeconds=60)](http://worldtimeapi.org/api/timezone/Asia/Karachi)</sub>
+<sub>💖 Built with passion by [Shahzaib Rehman](https://github.com/codingwithshahzaib)</sub>
 
 </div>
 
