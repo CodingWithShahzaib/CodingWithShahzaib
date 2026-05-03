@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 72" width="1200" height="72" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="f" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c9885" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#c98c63"/>
+      <stop offset="100%" stop-color="#7c9885" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="72" fill="#0c0a09"/>
+  <rect x="0" y="0" width="1200" height="72" fill="url(#f)" opacity="0.35"/>
+  <line x1="120" y1="36" x2="1080" y2="36" stroke="url(#f)" stroke-width="2"/>
+</svg>
