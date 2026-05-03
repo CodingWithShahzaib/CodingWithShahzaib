@@ -1,13 +1,13 @@
 <!-- Shahzaib Rehman — profile README: industrial editorial / blueprint tone (warm charcoal + copper + sage) -->
-<!-- Reliability (2026): github-readme-stats.vercel.app is paused globally (503). Mirrors: github-readme-stats.shion.dev + streak-stats.demolab.com + readme-typing-svg.demolab.com. Profile README must use absolute raw URLs for <img>/<picture> assets (relative paths inside HTML blocks do not resolve on github.com/profile). -->
+<!-- Reliability (2026): github-readme-stats.vercel.app is paused (503); use github-readme-stats.shion.dev + streak-stats.demolab.com + readme-typing-svg.demolab.com. Raster headers (PNG) work through Camo; SVG in &lt;img&gt; usually does not render on github.com/profile. -->
 
 <div align="center">
 
-<!-- Header: self-hosted SVG (reliable on GitHub; capsule-render often times out on long URLs) -->
-<img width="100%" alt="Profile header — Shahzaib Rehman" src="https://raw.githubusercontent.com/CodingWithShahzaib/CodingWithShahzaib/main/assets/profile-header.svg"/>
+<!-- Header: PNG assets/tools/generate_profile_header_png.py (SVG fails via GitHub Camo in profile README). -->
+<img width="100%" alt="Profile header — Shahzaib Rehman" src="https://raw.githubusercontent.com/CodingWithShahzaib/CodingWithShahzaib/main/assets/profile-header.png"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=750&color=C98C63&center=true&vCenter=true&multiline=true&width=920&height=132&lines=Scalable%20web%20apps%20%E2%80%94%20payments%2C%20dashboards%2C%20cloud.;LLM%20%26%20API%20integrations%20that%20ship%20to%20prod.;Open%20for%20opportunities%20%C2%B7%20shahzaib.codes" alt="Animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=750&color=C98C63&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=Scalable%20web%20apps%20%E2%80%94%20payments%2C%20dashboards%2C%20cloud.;LLM%20%26%20API%20integrations%20that%20ship%20to%20prod.;Open%20for%20opportunities%20%C2%B7%20shahzaib.codes" alt="Animated tagline" />
 </a>
 
 <br/>
@@ -292,7 +292,7 @@ const shahzaib: Developer = {
 
 <div align="center">
 
-<img width="100%" alt="Footer" src="https://raw.githubusercontent.com/CodingWithShahzaib/CodingWithShahzaib/main/assets/profile-footer.svg"/>
+<img width="100%" alt="Footer" src="https://raw.githubusercontent.com/CodingWithShahzaib/CodingWithShahzaib/main/assets/profile-footer.png"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=1&pause=1000&color=7C9885&center=true&vCenter=true&width=800&lines=Thanks+for+reading+%E2%80%94+build+something+weird+and+good." />
