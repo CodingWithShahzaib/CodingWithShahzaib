@@ -1,40 +1,49 @@
+<!-- Shahzaib Rehman — profile README: industrial editorial / blueprint tone (warm charcoal + copper + sage) -->
+
 <div align="center">
 
-<!-- Dynamic Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Shahzaib%20Rehman&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
+<!-- Header: slice geometry + ember gradient (less common than default "waving + blue") -->
+<img width="100%" alt="Profile header — Shahzaib Rehman" src="https://capsule-render.vercel.app/api?type=slice&height=280&color=gradient&customColorList=24,27,14,18,22&section=header&text=Shahzaib%20Rehman&fontSize=52&fontColor=f5f0e8&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%94%20efficient%20web%20apps%2C%20payments%20%26%20cloud%2C%20AI%20where%20it%20earns%20its%20place&descAlignY=56&descSize=15&stroke=000&strokeWidth=0"/>
 
-<!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Welcome+to+my+Digital+Realm;🚀+Building+Tomorrow's+Solutions;💡+Turning+Ideas+into+Reality;🌟+Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=22&duration=2800&pause=700&color=C98C63&center=true&vCenter=true&multiline=true&width=780&height=110&lines=Efficient%2C%20scalable%20web%20apps%20%E2%80%94%20from%20payments%20to%20dashboards.;AI-powered%20workflows%20%26%20integrations%20that%20actually%20ship.;Available%20for%20opportunities%20%E2%80%94%20portfolio%20at%20shahzaib.codes" alt="Animated tagline" />
 </a>
 
-<!-- Dynamic Profile Badges -->
+<br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codingwithshahzaib&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/codingwithshahzaib?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
-  <img src="https://img.shields.io/github/stars/codingwithshahzaib?label=Stars%20Earned&style=for-the-badge&color=0e75b6" alt="stars" />
+  <a href="https://shahzaib.codes" target="_blank" rel="noopener noreferrer"><strong>shahzaib.codes</strong></a>
+  <sub> — resume, experience, and how to reach me</sub>
 </p>
 
-<!-- Dynamic Snake Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codingwithshahzaib&label=visitors&color=c98c63&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/codingwithshahzaib?label=followers&logo=github&color=1a1412&logoColor=c98c63&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/codingwithshahzaib?label=stars&logo=github&color=1a1412&logoColor=7c9885&style=flat-square" alt="Stars" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codingwithshahzaib/codingwithshahzaib/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codingwithshahzaib/codingwithshahzaib/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codingwithshahzaib/codingwithshahzaib/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution grid snake" src="https://raw.githubusercontent.com/codingwithshahzaib/codingwithshahzaib/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<table>
+<tr>
+<td width="52%" valign="top">
 
-## 🧬 About Me
+### Blueprint
 
 ```typescript
 interface Developer {
   name: string;
   role: string;
   location: string;
+  site: string;
   languages: string[];
   currentFocus: string;
   funFact: string;
@@ -43,51 +52,72 @@ interface Developer {
 
 const shahzaib: Developer = {
   name: "Shahzaib Rehman",
-  role: "Full Stack Engineer",
+  role: "Senior Software Engineer",
   location: "Pakistan 🇵🇰",
-  languages: ["JavaScript", "Python", "TypeScript", "Go"],
-  currentFocus: "Building scalable microservices & AI-powered solutions",
-  funFact: "I turn coffee into code and bugs into features ☕",
-  available: true
+  site: "https://shahzaib.codes",
+  languages: ["JavaScript", "TypeScript", "Python", "Go"],
+  currentFocus: "Payments & webhooks, Firebase/Prisma backends, LLM/RAG & integrations",
+  funFact: "Shrunk a Docker image from 1.5GB → 90MB once — still proud of that diff ☕",
+  available: true,
 };
 ```
 
-<!-- Dynamic GitHub Metrics -->
+<p align="left">
+  <sub><strong>How I work:</strong> same story as on <a href="https://shahzaib.codes">shahzaib.codes</a> — growth mindset, collaborative delivery, and detail in both product and architecture.</sub>
+</p>
+
+</td>
+<td width="48%" valign="middle" align="center">
+
+<img alt="Coding" width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codingwithshahzaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=codingwithshahzaib&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codingwithshahzaib&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0c0a09&title_color=c98c63&icon_color=7c9885&text_color=e7e5e4&border_color=2a2420&custom_title=GitHub%20pulse" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithshahzaib&hide_border=true&background=0C0A09&stroke=2A2420&ring=C98C63&fire=C98C63&currStreakLabel=E7E5E4&sideLabels=E7E5E4&currStreakNum=C98C63&dates=E7E5E4" />
+
 </div>
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Workshop — stack
 
 <div align="center">
 
-<!-- Animated Skills Section -->
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### 🎨 Frontend Magic
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,html,css,sass,tailwind,bootstrap,js,ts,jquery" />
+**Surfaces**
+
+<div align="center">
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,html,css,sass,tailwind,bootstrap,js,ts,jquery" alt="Frontend" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### ⚡ Backend Power  
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi,go,rust,php,laravel,spring,dotnet" />
+**Engines**
+
+<div align="center">
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi,go,rust,php,laravel,spring,dotnet" alt="Backend" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### 🗄️ Database & Storage
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,cassandra,elasticsearch,firebase,supabase" />
+**Ledger**
+
+<div align="center">
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,cassandra,elasticsearch,firebase,supabase" alt="Data" />
 </div>
 
 </td>
@@ -95,25 +125,28 @@ const shahzaib: Developer = {
 <tr>
 <td valign="top" width="33%">
 
-### ☁️ Cloud & DevOps
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,nginx,grafana" />
+**Sky & metal**
+
+<div align="center">
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,nginx,grafana" alt="Cloud" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### 🤖 AI/ML & Data
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda,jupyter,r,matlab" />
+**Signals**
+
+<div align="center">
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda,jupyter,r,matlab" alt="ML" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### 🔧 Tools & IDE
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,idea,vim,git,github,gitlab,figma,postman,insomnia,notion" />
+**Bench**
+
+<div align="center">
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,idea,vim,git,github,gitlab,figma,postman,insomnia,notion" alt="Tools" />
 </div>
 
 </td>
@@ -122,159 +155,152 @@ const shahzaib: Developer = {
 
 </div>
 
+<br/>
+
 ---
 
-## 📊 Dynamic Analytics & Insights
+## Telemetry
 
 <div align="center">
-  
-<!-- Coding Activity Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=⏰%20Most%20Used%20Languages&langs_count=6" />
 
-<!-- Language Usage Pie Chart -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&custom_title=💻%20Language%20Distribution" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0c0a09&title_color=c98c63&text_color=e7e5e4&icon_color=7c9885&custom_title=Language%20weight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8&bg_color=0c0a09&title_color=c98c63&text_color=e7e5e4&icon_color=7c9885&custom_title=Distribution" />
 
 </div>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codingwithshahzaib&custom_title=📈%20Contribution%20Timeline&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codingwithshahzaib&custom_title=Contribution%20rhythm&bg_color=0c0a09&color=e7e5e4&line=c98c63&point=7c9885&area_color=c98c63&area=true&hide_border=true" width="100%" alt="Activity graph" />
+
+<br/>
 
 ---
 
-## 🏆 Achievements & Trophies
+## Cabinet
 
 <div align="center">
-  
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=codingwithshahzaib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
 
-<!-- GitHub Metrics (Alternative to Metrics.lecoq.io) -->
-<img src="https://github-readme-stats.vercel.app/api?username=codingwithshahzaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🏆%20GitHub%20Performance" />
+<img src="https://github-profile-trophy.vercel.app/?username=codingwithshahzaib&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=2&column=7" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🎵 Now Playing & Real-time Data
+## Signals & misc
 
 <div align="center">
 
-<!-- Spotify Now Playing (if connected) -->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER&unique=true" width="540" />
+<!-- Replace YOUR_SPOTIFY_USER with your Spotify username when ready -->
+<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER&unique=true" width="540" alt="Spotify" /> -->
 
-<!-- Random Joke/Quote Generator -->
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="500"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder" width="520" alt="Developer joke" />
 
-<!-- Current Time Widget -->
-<img src="https://img.shields.io/badge/dynamic/json?color=2F81F7&style=for-the-badge&label=LOCAL%20TIME&query=formatted&url=http://worldtimeapi.org/api/timezone/Asia/Karachi&logo=clock" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?color=c98c63&label=Karachi%20time&query=datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FKarachi&logo=clock&logoColor=f5f0e8&style=flat-square" alt="Local time" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 Featured Projects
+## Shipping
 
 <div align="center">
 
-<!-- GitHub Repositories with Dynamic Cards -->
-<a href="https://github.com/codingwithshahzaib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwithshahzaib&repo=codingwithshahzaib&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/codingwithshahzaib/codingwithshahzaib">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codingwithshahzaib&repo=codingwithshahzaib&hide_border=true&bg_color=0c0a09&title_color=c98c63&icon_color=7c9885&text_color=e7e5e4" alt="Featured repo card" />
 </a>
 
-<!-- Create more cards when you have public repositories -->
-<p><em>🔨 More awesome projects coming soon! Currently working on some exciting stuff behind the scenes.</em></p>
+<p><em>More repos in the open — the narrative (experience, case studies, contact) lives on <a href="https://shahzaib.codes">shahzaib.codes</a>.</em></p>
 
 </div>
 
+<br/>
+
 ---
 
-## 📈 Detailed GitHub Analytics
+## Deeper cuts
 
-<div align="center">
-
-<!-- Comprehensive GitHub Stats -->
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=codingwithshahzaib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-
-<!-- Advanced Metrics -->
 <details>
-<summary>📊 More GitHub Analytics</summary>
-<br>
+<summary><strong>Expand — extra GitHub analytics</strong></summary>
 
-<!-- Alternative GitHub Stats Cards -->
+<br/>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codingwithshahzaib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=📈%20Detailed%20Stats"/>
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=codingwithshahzaib&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Breakdown"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=codingwithshahzaib&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0c0a09&title_color=c98c63&icon_color=7c9885&text_color=e7e5e4&custom_title=Extended%20stats" />
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithshahzaib&hide_border=true&background=0C0A09&stroke=2A2420&ring=C98C63&fire=C98C63&currStreakLabel=E7E5E4&sideLabels=E7E5E4&currStreakNum=C98C63&dates=E7E5E4" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithshahzaib&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&bg_color=0c0a09&title_color=c98c63&text_color=e7e5e4&icon_color=7c9885&custom_title=Languages%20%28compact%29" />
+
 </div>
 
 </details>
 
-</div>
+<br/>
 
 ---
 
-## 🤝 Connect & Collaborate
+## Lines open
 
 <div align="center">
 
-<!-- 3D Social Icons -->
-<a href="https://linkedin.com/in/shahzaib-rehman" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C&labelColor=1e77b5" alt="LinkedIn"/>
+<a href="https://shahzaib.codes" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-shahzaib.codes-0c0a09?style=flat-square&logo=safari&logoColor=c98c63&labelColor=1a1412" alt="Portfolio — shahzaib.codes" />
 </a>
-<a href="mailto:your.email@example.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C&labelColor=D14836" alt="Gmail"/>
+<a href="https://linkedin.com/in/shahzaib-rehman" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-shahzaib--rehman-0c0a09?style=flat-square&logo=linkedin&logoColor=c98c63&labelColor=1a1412" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/your-handle" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C&labelColor=00acee" alt="Twitter"/>
+<a href="mailto:shahzaibrehman40@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-shahzaibrehman40%40gmail.com-0c0a09?style=flat-square&logo=gmail&logoColor=c98c63&labelColor=1a1412" alt="Email" />
 </a>
-<a href="https://your-portfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&color=071A2C&labelColor=FF5722" alt="Portfolio"/>
-</a>
-<a href="https://dev.to/your-handle" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C&labelColor=0A0A0A" alt="Dev.to"/>
+<a href="https://github.com/CodingWithShahzaib" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-CodingWithShahzaib-0c0a09?style=flat-square&logo=github&logoColor=e7e5e4&labelColor=1a1412" alt="GitHub" />
 </a>
 
-<!-- Dynamic Contact Form -->
-<br><br>
-<img src="https://img.shields.io/badge/Open%20for-Collaborations-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" />
-<img src="https://img.shields.io/badge/Available%20for-Freelance-blue?style=for-the-badge&logo=upwork&logoColor=white" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/opportunities-open-0c0a09?style=flat-square&logo=handshake&logoColor=7c9885&labelColor=1a1412" alt="Available for opportunities" />
+<img src="https://img.shields.io/badge/collaboration-welcome-0c0a09?style=flat-square&logo=git&logoColor=c98c63&labelColor=1a1412" alt="Open to collaboration" />
 
 </div>
+
+<br/>
 
 ---
 
-## 💭 Daily Dose of Wisdom
+## Marginalia
 
 <div align="center">
 
-<!-- Random Quote with Animation -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
-
-<!-- Motivational Widget -->
-<img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&category=motivational" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in" alt="Quote" />
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<!-- Dynamic Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=slice&height=110&color=gradient&customColorList=24,27,14,18,22&section=footer&animation=fadeIn&stroke=000&strokeWidth=0"/>
 
-<!-- Visitor Counter with Custom Style -->
-<img src="https://komarev.com/ghpvc/?username=codingwithshahzaib&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=1&pause=1000&color=7C9885&center=true&vCenter=true&width=800&lines=Thanks+for+reading+%E2%80%94+build+something+weird+and+good." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=1&pause=1000&color=5a6b5f&center=true&vCenter=true&width=800&lines=Thanks+for+reading+%E2%80%94+build+something+weird+and+good." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=1&pause=1000&color=7C9885&center=true&vCenter=true&width=800&lines=Thanks+for+reading+%E2%80%94+build+something+weird+and+good." alt="Closing line" />
+</picture>
 
-### 🌟 "In the world of code, every bug is just an undocumented feature waiting to be discovered!" 
-
-<sub>💖 Built with passion by [Shahzaib Rehman](https://github.com/codingwithshahzaib)</sub>
+<sub>Built with intent by <a href="https://github.com/codingwithshahzaib">Shahzaib Rehman</a> · <a href="https://shahzaib.codes">shahzaib.codes</a></sub>
 
 </div>
 
-<!-- Hidden Easter Egg -->
+<!-- Easter egg preserved -->
 <!--
 ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗    ███████╗ ██████╗ ██████╗ 
 ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝    ██╔════╝██╔═══██╗██╔══██╗
@@ -297,6 +323,5 @@ const shahzaib: Developer = {
 ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗██╗                          
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝╚═╝                          
 
-🎉 Congratulations! You found the hidden ASCII art easter egg! 🎉
-You're definitely a curious developer - that's the spirit! 🚀
+🎉 You found the ASCII vault. Curiosity is a feature. 🚀
 -->
