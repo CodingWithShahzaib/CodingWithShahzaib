@@ -172,7 +172,7 @@ const shahzaib: Developer = {
 
 <br/>
 
-**Contribution rhythm** ([ghchart](https://github.com/raphodn/ghchart) — reliable CDN heatmap; classic [activity graph](https://github.com/Ashutosh00710/github-readme-activity-graph) can time out on Vercel.)
+**Contribution rhythm** ([ghchart](https://github.com/2016rshah/githubchart-api) — reliable CDN heatmap; classic [activity graph](https://github.com/Ashutosh00710/github-readme-activity-graph) can time out on Vercel.)
 
 <img src="https://ghchart.rshah.org/c98c63/codingwithshahzaib" width="100%" alt="GitHub contributions heat chart" />
 
